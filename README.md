@@ -48,3 +48,9 @@ Things I got stuck on, so I don't get stuck again:
 - Make a app
 - MAke a website
 - learn some basics in security for them
+
+## Tools i have installed
+- [ Yes ] Git
+- [ No ] IntelliJ IDEA Community Edition
+- [ No ]Android Studio
+- [ Yes ] VS Code
