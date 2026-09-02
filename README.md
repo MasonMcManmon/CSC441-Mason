@@ -44,3 +44,7 @@ Things I got stuck on, so I don't get stuck again:
 - cd
 - mkdir
 
+## My goals for this course
+- Make a app
+- MAke a website
+- learn some basics in security for them
