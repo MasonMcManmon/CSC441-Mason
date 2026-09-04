@@ -55,4 +55,5 @@ Things I got stuck on, so I don't get stuck again:
 - [ No ]Android Studio
 - [ Yes ] VS Code
 
-# Conflit Line
+## Status
+Learning Git and feeling good about it.
