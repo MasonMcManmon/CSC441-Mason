@@ -55,4 +55,5 @@ Things I got stuck on, so I don't get stuck again:
 - [ No ]Android Studio
 - [ Yes ] VS Code
 
-# Conflit Line
+## Status
+Working through branches. Slightly confused but getting there.
