@@ -54,3 +54,5 @@ Things I got stuck on, so I don't get stuck again:
 - [ No ] IntelliJ IDEA Community Edition
 - [ No ]Android Studio
 - [ Yes ] VS Code
+
+# Conflit Line
