@@ -1,4 +1,4 @@
-package Week4Wed
+package week4Wed
 
 fun main() {
     println("--Step 1: Function returning nothing--")
