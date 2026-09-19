@@ -32,6 +32,7 @@ fun main() {
     groceriesList.add("Snowmobile")
     groceriesList.remove("Bed")
     println(groceriesList)
+    println(groceriesList.size)
 
     println("--Step 8--")
     val listOfNumbers = listOf(800, 1, 76, 94, 100)
